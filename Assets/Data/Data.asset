@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b943b1aa4041642a00345a01b38756, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  GameSpeed: 0.5
+  MovementStep: 1.2
+  SnekHeadView: {fileID: 5425980223828883161, guid: ae2baa838ef59ef4fa3f75ff0b7c74c9, type: 3}
+  SnekTaleView: {fileID: 3659153269950105522, guid: d958dab9fe981e24db6b6fd11ac135b0, type: 3}
+  BonusView: {fileID: 4302632833898188974, guid: 24b8da19cb76d2449a0f1ed77ffb8a7f, type: 3}
